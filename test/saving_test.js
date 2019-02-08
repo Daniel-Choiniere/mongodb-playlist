@@ -15,7 +15,5 @@ describe('Saving records', function(){
       assert(!char.isNew);
       done();
     });
-
   });
-
 });
